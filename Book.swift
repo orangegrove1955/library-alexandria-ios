@@ -19,4 +19,10 @@ class Book: NSObject {
     var genre: String?
     var bookDesc: String?
     
+    // Method to initialise Book
+   init(title: String, ISBN: Int, author: String){
+        self.title = title
+        self.ISBN = ISBN
+        self.author = author
+    }
 }
