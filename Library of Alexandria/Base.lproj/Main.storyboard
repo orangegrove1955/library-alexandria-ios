@@ -155,7 +155,6 @@
                         <outlet property="inputPublisher" destination="taJ-Nh-43d" id="v0q-1S-KSN"/>
                         <outlet property="inputTitle" destination="hvZ-G9-8XS" id="LaK-tF-64W"/>
                         <outlet property="inputYear" destination="ml7-y4-V8t" id="rKu-TU-W15"/>
-                        <outlet property="titleField" destination="hvZ-G9-8XS" id="ZwS-EI-ZwZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
